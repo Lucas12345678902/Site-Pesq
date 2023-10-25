@@ -1,0 +1,77 @@
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+.header {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.hero {
+    background-image: url(https://images.pexels.com/photos/18215372/pexels-photo-18215372/free-photo-of-agricultura-colheita-safra-meio-ambiente.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+
+.hero-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+
+.hero-subtitle {
+    font-size: 20px;
+}
+
+
+.nav-list {
+    list-style: none;
+}
+
+
+.nav-list li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+.nav-list a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.contatos h1{
+    text-align: center;
+}
+
+.contatos{
+    display: inline;
+}
+
+.footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.lista{
+    display: inline-block;
+}
+
+.footer-text {
+    font-size: 14px;
+}
